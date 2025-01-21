@@ -1,1 +1,0 @@
-# copy the contents of sample.md to start
